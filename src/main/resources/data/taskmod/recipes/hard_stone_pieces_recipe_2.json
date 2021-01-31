@@ -1,0 +1,12 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "taskmod:hard_stone"
+  },
+  "result": {
+    "item": "taskmod:hard_stone_pieces"
+  }
+}

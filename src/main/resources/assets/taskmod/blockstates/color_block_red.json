@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taskmod:block/color_block_red"
+    }
+  }
+}

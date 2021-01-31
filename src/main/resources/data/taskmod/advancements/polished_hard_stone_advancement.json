@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "taskmod:polished_hard_stone"
+    },
+    "title": {
+      "translate": "advancements.polished_hard_stone_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.polished_hard_stone_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "polished_hard_stone_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "taskmod:polished_hard_stone",
+            "count": {
+              "min": 1,
+              "max": 4
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "taskmod:hard_stone_advencement"
+}

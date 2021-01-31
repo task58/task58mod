@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "taskmod:color_block_red"
+    },
+    "title": {
+      "translate": "advancements.coler_block_advencement.title"
+    },
+    "description": {
+      "translate": "advancements.coler_block_advencement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "coler_block_advencement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "taskmod:color_block_red",
+            "count": {
+              "min": 0,
+              "max": 4
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "taskmod:stone_advancement"
+}

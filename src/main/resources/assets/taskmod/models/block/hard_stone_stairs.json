@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "taskmod:blocks/hardstone",
+    "top": "taskmod:blocks/hardstone",
+    "side": "taskmod:blocks/hardstone"
+  }
+}

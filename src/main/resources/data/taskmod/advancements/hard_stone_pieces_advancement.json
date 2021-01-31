@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "taskmod:hard_stone_pieces"
+    },
+    "title": {
+      "translate": "advancements.hard_stone_pieces_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.hard_stone_pieces_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hard_stone_pieces_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "taskmod:hard_stone_pieces",
+            "count": {
+              "min": 1,
+              "max": 5
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "taskmod:hard_stone_advencement"
+}

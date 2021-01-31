@@ -1,0 +1,30 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "taskmod:hard_stone"
+    },
+    "1": {
+      "item": "taskmod:hard_stone"
+    },
+    "2": {
+      "item": "taskmod:hard_stone"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "taskmod:hard_stone_pickaxe",
+    "count": 1
+  }
+}

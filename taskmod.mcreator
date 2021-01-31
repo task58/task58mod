@@ -1,0 +1,356 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HardStone",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone"
+    },
+    {
+      "name": "HardStonePickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_pickaxe"
+    },
+    {
+      "name": "HardStonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_pickaxe_recipe"
+    },
+    {
+      "name": "HardStoneAxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_axe"
+    },
+    {
+      "name": "HardStoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_axe_recipe"
+    },
+    {
+      "name": "HardStoneSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_sword"
+    },
+    {
+      "name": "HardStoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_sword_recipe"
+    },
+    {
+      "name": "ToolsTab",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tools_tab"
+    },
+    {
+      "name": "BlocksTab",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocks_tab"
+    },
+    {
+      "name": "WeponsTab",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wepons_tab"
+    },
+    {
+      "name": "HardStoneHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_hoe"
+    },
+    {
+      "name": "HardStoneHoeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_hoe_recipe"
+    },
+    {
+      "name": "HardStoneSpade",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_spade"
+    },
+    {
+      "name": "HardStoneSpadeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_spade_recipe"
+    },
+    {
+      "name": "Logo",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "logo"
+    },
+    {
+      "name": "Task58modAdvancement",
+      "type": "achievement",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "task_58mod_advancement"
+    },
+    {
+      "name": "HardStoneAdvencement",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_advencement"
+    },
+    {
+      "name": "HardStonePickaxeAdvencement",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_pickaxe_advencement"
+    },
+    {
+      "name": "StoneAdvancement",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_advancement"
+    },
+    {
+      "name": "ColorBlockRed",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "color_block_red"
+    },
+    {
+      "name": "ColerBlockAdvencement",
+      "type": "achievement",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coler_block_advencement"
+    },
+    {
+      "name": "ColorBlockRedRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "color_block_red_recipe"
+    },
+    {
+      "name": "ItemsTab",
+      "type": "tab",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "items_tab"
+    },
+    {
+      "name": "HardStonePieces",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_pieces"
+    },
+    {
+      "name": "HardStonePiecesRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_pieces_recipe"
+    },
+    {
+      "name": "HardStonePiecesAdvancement",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_pieces_advancement"
+    },
+    {
+      "name": "PolishedHardStone",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_hard_stone"
+    },
+    {
+      "name": "PolishedHardStoneRecipe1",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_hard_stone_recipe_1"
+    },
+    {
+      "name": "HardStonePiecesRecipe2",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_pieces_recipe_2"
+    },
+    {
+      "name": "PolishedHardStoneRecipe2",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_hard_stone_recipe_2"
+    },
+    {
+      "name": "HardStoneStairs",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_stairs"
+    },
+    {
+      "name": "HardStoneStairsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_stone_stairs_recipe"
+    },
+    {
+      "name": "PolishedHardStoneAdvancement",
+      "type": "achievement",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_hard_stone_advancement"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.taskmod.hard_stone_hoe": "Hard Stone Hoe",
+      "advancements.hard_stone_advencement.title": "Is this a hard stone?",
+      "item.taskmod.hard_stone_spade": "Hard Stone Spade",
+      "advancements.coler_block_advencement.descr": "Craft red blocks with stones and red dye",
+      "advancements.hard_stone_advencement.descr": "Get a hard stone",
+      "block.taskmod.hard_stone_stairs": "Hard Stone Stairs",
+      "itemGroup.tabitems_tab": "Task58mod - Items",
+      "advancements.hard_stone_pickaxe_advencement.descr": "Craft a hard stone pickaxe",
+      "item.taskmod.hard_stone_sword": "Hard Stone Sword",
+      "item.taskmod.hard_stone_pieces": "Hard Stone Pieces",
+      "itemGroup.tabblocks_tab": "task58mod - blocks",
+      "advancements.hard_stone_pickaxe_advencement.title": "More than a stone!",
+      "advancements.polished_hard_stone_advancement.descr": "Get a polished hard stone",
+      "advancements.coler_block_advencement.title": "You can color this!",
+      "item.taskmod.hard_stone_pickaxe": "Hard Stone Pickaxe",
+      "block.taskmod.color_block_red": "Color Block Red",
+      "advancements.polished_hard_stone_advancement.title": "Do you need to polish it?",
+      "advancements.task_58mod_advancement.descr": "Welcome to Task58mod world!",
+      "item.taskmod.hard_stone_axe": "Hard Stone Axe",
+      "advancements.task_58mod_advancement.title": "Task58mod",
+      "block.taskmod.polished_hard_stone": "Polished Hard Stone",
+      "advancements.hard_stone_pieces_advancement.descr": "Get a Hard stone pieces",
+      "itemGroup.tabtools_tab": "task58mod - tools",
+      "item.taskmod.logo": "Logo",
+      "advancements.hard_stone_pieces_advancement.title": "What is this used for?",
+      "advancements.stone_advancement.descr": "Get a stone",
+      "block.taskmod.hard_stone": "Hard Stone",
+      "itemGroup.tabwepons_tab": "task58mod - wepons",
+      "advancements.stone_advancement.title": "Can you color this?"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "taskmod",
+    "modName": "task58Mod",
+    "version": "0.1.0",
+    "description": "This mod is my first mod",
+    "author": "task, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.taskmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

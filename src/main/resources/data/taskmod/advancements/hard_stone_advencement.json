@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "taskmod:hard_stone"
+    },
+    "title": {
+      "translate": "advancements.hard_stone_advencement.title"
+    },
+    "description": {
+      "translate": "advancements.hard_stone_advencement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hard_stone_advencement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "taskmod:hard_stone",
+            "count": {
+              "min": 0,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "taskmod:hard_stone_pickaxe_recipe",
+      "taskmod:hard_stone_axe_recipe",
+      "taskmod:hard_stone_sword_recipe",
+      "taskmod:hard_stone_hoe_recipe",
+      "taskmod:hard_stone_spade_recipe"
+    ]
+  },
+  "parent": "taskmod:task_58mod_advancement"
+}

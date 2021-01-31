@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "taskmod:hard_stone_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.hard_stone_pickaxe_advencement.title"
+    },
+    "description": {
+      "translate": "advancements.hard_stone_pickaxe_advencement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hard_stone_pickaxe_advencement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "taskmod:hard_stone_pickaxe",
+            "count": {
+              "min": 0,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "taskmod:hard_stone_advencement"
+}

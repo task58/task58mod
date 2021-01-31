@@ -1,0 +1,26 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "taskmod:hard_stone"
+    },
+    "1": {
+      "item": "taskmod:hard_stone"
+    },
+    "2": {
+      "item": "taskmod:hard_stone"
+    },
+    "3": {
+      "item": "taskmod:hard_stone"
+    }
+  },
+  "result": {
+    "item": "taskmod:polished_hard_stone",
+    "count": 4
+  }
+}
