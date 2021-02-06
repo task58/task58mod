@@ -1,0 +1,19 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "taskmod:clothes_armor_chestplate"
+    },
+    {
+      "item": "taskmod:shock_absorber_a_armor_chestplate"
+    },
+    {
+      "item": "minecraft:iron_chestplate"
+    }
+  ],
+  "result": {
+    "item": "taskmod:anti_shock_armor_chestplate",
+    "count": 1
+  }
+}

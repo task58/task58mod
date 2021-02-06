@@ -1,0 +1,26 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "taskmod:shock_absorber"
+    },
+    "2": {
+      "item": "taskmod:shock_absorber"
+    },
+    "3": {
+      "item": "taskmod:shock_absorber"
+    },
+    "5": {
+      "item": "taskmod:shock_absorber"
+    }
+  },
+  "result": {
+    "item": "taskmod:shock_absorber_a_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "taskmod:hard_stone_mini_knife"
+    }
+  ],
+  "result": {
+    "item": "taskmod:leather_fabric",
+    "count": 2
+  }
+}

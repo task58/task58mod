@@ -1,0 +1,36 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "taskmod:leather_fabric"
+    },
+    "1": {
+      "item": "taskmod:leather_fabric"
+    },
+    "2": {
+      "item": "taskmod:leather_fabric"
+    },
+    "3": {
+      "item": "taskmod:leather_fabric"
+    },
+    "5": {
+      "item": "taskmod:leather_fabric"
+    },
+    "6": {
+      "item": "taskmod:leather_fabric"
+    },
+    "8": {
+      "item": "taskmod:leather_fabric"
+    }
+  },
+  "result": {
+    "item": "taskmod:clothes_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "taskmod:leather_fabric"
+    },
+    "title": {
+      "translate": "advancements.leather_fabric_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.leather_fabric_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "leather_fabric_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "taskmod:leather_fabric",
+            "count": {
+              "min": 1,
+              "max": 2
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "taskmod:clothes_armor_helmet_recipe",
+      "taskmod:clothes_armor_body_recipe",
+      "taskmod:clothes_armor_leggings_recipe",
+      "taskmod:clothes_armor_boots_recipe"
+    ]
+  },
+  "parent": "taskmod:hard_stone_mini_knife_advancement"
+}

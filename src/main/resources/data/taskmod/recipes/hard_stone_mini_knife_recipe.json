@@ -1,0 +1,9 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "taskmod:hard_stone_pieces"
+  },
+  "result": "taskmod:hard_stone_mini_knife"
+}

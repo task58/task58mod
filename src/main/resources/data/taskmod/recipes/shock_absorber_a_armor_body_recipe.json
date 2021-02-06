@@ -1,0 +1,39 @@
+{
+  "group": "taskmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "taskmod:shock_absorber"
+    },
+    "2": {
+      "item": "taskmod:shock_absorber"
+    },
+    "3": {
+      "item": "taskmod:shock_absorber"
+    },
+    "4": {
+      "item": "taskmod:shock_absorber"
+    },
+    "5": {
+      "item": "taskmod:shock_absorber"
+    },
+    "6": {
+      "item": "taskmod:shock_absorber"
+    },
+    "7": {
+      "item": "taskmod:shock_absorber"
+    },
+    "8": {
+      "item": "taskmod:shock_absorber"
+    }
+  },
+  "result": {
+    "item": "taskmod:shock_absorber_a_armor_chestplate",
+    "count": 1
+  }
+}
